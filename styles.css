@@ -1,0 +1,39 @@
+ body {
+  background-color:#a1a1a6;
+}
+
+.info{
+  float: right;
+}
+
+.logo{
+  float: left;
+}
+
+.jumbotron {
+  margin-bottom:0px;
+}
+
+.textcontainer {
+  margin-top:5%;
+  margin-left:5%;
+  margin-right:5%;
+}
+
+.outline {
+    outline: 1px solid orange;
+}
+
+.container2 {
+  padding-right: 0px;
+  padding-left: 0px;
+  margin-right: 0px;
+  margin-left: 0px;
+}
+
+.container3 {
+  padding-right: 0px;
+  padding-left: 0px;
+  margin-right: 5%;
+  margin-left: 5%;
+}
